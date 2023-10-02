@@ -1,0 +1,194 @@
+2023-10-02 11:12:03,809 [agent_DQN_code] INFO: Setting up model from scratch.
+2023-10-02 11:12:03,839 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,840 [agent_DQN_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 1
+2023-10-02 11:12:03,840 [agent_DQN_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2023-10-02 11:12:03,840 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,841 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 2
+2023-10-02 11:12:03,841 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,841 [agent_DQN_code] DEBUG: Choosing action purely at random.
+2023-10-02 11:12:03,842 [agent_DQN_code] DEBUG: Encountered game event(s) 'MOVED_RIGHT' in step 3
+2023-10-02 11:12:03,842 [agent_DQN_code] INFO: Awarded -0.1 for events MOVED_RIGHT, PLACEHOLDER
+2023-10-02 11:12:03,842 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,843 [agent_DQN_code] DEBUG: Encountered game event(s) 'BOMB_DROPPED' in step 4
+2023-10-02 11:12:03,844 [agent_DQN_code] INFO: Awarded -0.1 for events BOMB_DROPPED, PLACEHOLDER
+2023-10-02 11:12:03,844 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,844 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2023-10-02 11:12:03,845 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,845 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,846 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 6
+2023-10-02 11:12:03,846 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,846 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,847 [agent_DQN_code] DEBUG: Encountered game event(s) 'MOVED_LEFT' in step 7
+2023-10-02 11:12:03,847 [agent_DQN_code] INFO: Awarded -0.1 for events MOVED_LEFT, PLACEHOLDER
+2023-10-02 11:12:03,847 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,848 [agent_DQN_code] DEBUG: Encountered event(s) 'INVALID_ACTION', 'BOMB_EXPLODED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'CRATE_DESTROYED', 'KILLED_SELF', 'GOT_KILLED' in final step
+2023-10-02 11:12:03,848 [agent_DQN_code] INFO: Awarded 0 for events INVALID_ACTION, BOMB_EXPLODED, CRATE_DESTROYED, CRATE_DESTROYED, CRATE_DESTROYED, CRATE_DESTROYED, KILLED_SELF, GOT_KILLED
+2023-10-02 11:12:03,849 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,850 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 1
+2023-10-02 11:12:03,850 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,850 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,851 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 2
+2023-10-02 11:12:03,851 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,851 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,851 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 3
+2023-10-02 11:12:03,852 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,852 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,852 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 4
+2023-10-02 11:12:03,853 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,853 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,853 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 5
+2023-10-02 11:12:03,853 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,854 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,854 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 6
+2023-10-02 11:12:03,855 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,855 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,856 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 7
+2023-10-02 11:12:03,856 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,856 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,857 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 8
+2023-10-02 11:12:03,857 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,857 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,858 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 9
+2023-10-02 11:12:03,858 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,858 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,859 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 10
+2023-10-02 11:12:03,859 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,859 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,860 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 11
+2023-10-02 11:12:03,860 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,860 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,861 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 12
+2023-10-02 11:12:03,861 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,862 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,862 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 13
+2023-10-02 11:12:03,863 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,863 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,863 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 14
+2023-10-02 11:12:03,864 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,864 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,864 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 15
+2023-10-02 11:12:03,865 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,865 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,865 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 16
+2023-10-02 11:12:03,866 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,866 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,866 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 17
+2023-10-02 11:12:03,866 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,866 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,867 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 18
+2023-10-02 11:12:03,868 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,868 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,869 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 19
+2023-10-02 11:12:03,869 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,869 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,870 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 20
+2023-10-02 11:12:03,870 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,870 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,871 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 21
+2023-10-02 11:12:03,871 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,871 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,872 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 22
+2023-10-02 11:12:03,873 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,873 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,873 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 23
+2023-10-02 11:12:03,874 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,874 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,875 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 24
+2023-10-02 11:12:03,875 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,875 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,875 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 25
+2023-10-02 11:12:03,876 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,876 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,877 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 26
+2023-10-02 11:12:03,877 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,877 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,877 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 27
+2023-10-02 11:12:03,878 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,878 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,879 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 28
+2023-10-02 11:12:03,879 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,879 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,880 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 29
+2023-10-02 11:12:03,880 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,881 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,882 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 30
+2023-10-02 11:12:03,882 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,882 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,883 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 31
+2023-10-02 11:12:03,883 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,883 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,885 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 32
+2023-10-02 11:12:03,885 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,885 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,886 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 33
+2023-10-02 11:12:03,886 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,886 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,887 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 34
+2023-10-02 11:12:03,887 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,887 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,888 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 35
+2023-10-02 11:12:03,888 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,888 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,889 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 36
+2023-10-02 11:12:03,889 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,889 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,889 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 37
+2023-10-02 11:12:03,889 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,890 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,891 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 38
+2023-10-02 11:12:03,891 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,891 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,892 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 39
+2023-10-02 11:12:03,892 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,892 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,893 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 40
+2023-10-02 11:12:03,893 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,894 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,895 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 41
+2023-10-02 11:12:03,895 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,895 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,897 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 42
+2023-10-02 11:12:03,897 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,897 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,898 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 43
+2023-10-02 11:12:03,898 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,898 [agent_DQN_code] DEBUG: Choosing action purely at random.
+2023-10-02 11:12:03,900 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 44
+2023-10-02 11:12:03,900 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,900 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,901 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 45
+2023-10-02 11:12:03,901 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,901 [agent_DQN_code] DEBUG: Choosing action purely at random.
+2023-10-02 11:12:03,902 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 46
+2023-10-02 11:12:03,902 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,902 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,903 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 47
+2023-10-02 11:12:03,903 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,903 [agent_DQN_code] DEBUG: Choosing action purely at random.
+2023-10-02 11:12:03,904 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 48
+2023-10-02 11:12:03,904 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,904 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,904 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 49
+2023-10-02 11:12:03,905 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,905 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,906 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 50
+2023-10-02 11:12:03,906 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,906 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,908 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 51
+2023-10-02 11:12:03,908 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,908 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,909 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 52
+2023-10-02 11:12:03,909 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,910 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,911 [agent_DQN_code] DEBUG: Encountered game event(s) 'INVALID_ACTION' in step 53
+2023-10-02 11:12:03,911 [agent_DQN_code] INFO: Awarded -0.1 for events INVALID_ACTION, PLACEHOLDER
+2023-10-02 11:12:03,911 [agent_DQN_code] DEBUG: Querying model for action.
+2023-10-02 11:12:03,911 [agent_DQN_wrapper] ERROR: operands could not be broadcast together with shapes (17,17) (2,) 
+Traceback (most recent call last):
+  File "/home/siddhant/Downloads/MLE_PROJECT/bomberman_rl/agents.py", line 248, in process_event
+    event_result = getattr(module, event_name)(self.fake_self, *event_args)
+  File "/home/siddhant/Downloads/MLE_PROJECT/bomberman_rl/agent_code/agent_DQN/callbacks.py", line 152, in act
+    hidden_coins = [
+  File "/home/siddhant/Downloads/MLE_PROJECT/bomberman_rl/agent_code/agent_DQN/callbacks.py", line 153, in <listcomp>
+    coin for coin in game_state['coins'] if coin not in game_state['field']]
+ValueError: operands could not be broadcast together with shapes (17,17) (2,) 
